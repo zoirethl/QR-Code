@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](Screenshot 2023-10-29 at 6.34.31 PM.png)
+![Screenshot](Screenshot%202023-10-29%20at%206.34.31 PM.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/zoirethl/QR-Code)
-- Live Site URL: [Add live site URL here](https://zoirethl.github.io/QR-Code/)
+- [Solution URL:](https://github.com/zoirethl/QR-Code)
+- [Live Site URL:](https://zoirethl.github.io/QR-Code/)
 
 ## My Process
 ### Built with
@@ -47,5 +47,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Website - Zoireth Liendo
 - Frontend Mentor - [@zoirethl](https://www.frontendmentor.io/profile/zoirethl)
 
-# QR-Code
-# QR-Code
